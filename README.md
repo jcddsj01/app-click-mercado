@@ -137,9 +137,6 @@ Each feature has been designed to be simple, useful and didactic.
 - Vite: Ferramenta de build rápida e moderna para projetos front-end.
 - Lucide: Open-source icon library based on Feather Icons, used to add lightweight, customizable icons to the application interface.
 
-## 📸 Screenshots
-(In development)
-
 ##  How to run the project locally
 ## Clone the repository
 ```bash
