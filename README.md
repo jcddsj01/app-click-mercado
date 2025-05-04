@@ -112,7 +112,7 @@ MIT License. Você pode usar este projeto como referência para criar o seu pró
 ## Description
 This project was developed to improve my skills as a fullstack developer, putting into practice concepts and technologies that I have mastered.
 
-## What is App Click Mercado?
+## What is Click Mercado?
 It's a fictitious personal project about a market, developed with React, Tailwind CSS and good coding practices.
 Each feature has been designed to be simple, useful and didactic.
 
